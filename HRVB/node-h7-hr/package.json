@@ -1,0 +1,8 @@
+{
+  "name": "noble-h7",
+  "private": true,
+  "dependencies": {
+    "noble": "^1.7.0",
+    "rimraf": "^2.6.2"
+  }
+}
